@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>G:\МАИ\ВКР\Версии программы\MKO\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Калькулятор\Calculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Калькулятор\ResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
