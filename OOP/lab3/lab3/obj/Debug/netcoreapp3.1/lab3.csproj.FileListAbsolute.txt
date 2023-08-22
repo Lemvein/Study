@@ -1,0 +1,13 @@
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\МАИ\3 семестр\ООП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\МАИ\3 семестр\ООП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
