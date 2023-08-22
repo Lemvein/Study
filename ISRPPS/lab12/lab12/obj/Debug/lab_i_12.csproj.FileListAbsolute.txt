@@ -1,0 +1,30 @@
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe.config
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\bin\Debug\lab_i_12.pdb
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Form1.resources
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Properties.Resources.resources
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.exe
+C:\Users\uyron\source\repos\lab_i_12\lab_i_12\obj\Debug\lab_i_12.pdb
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe.config
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\bin\Debug\lab_i_12.pdb
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Properties.Resources.resources
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.exe
+E:\МАИ\3 семестр\ИСРППС\Delete\ISRPPS 10-16(ОГРОМНОЕ СПАСИБО УЛЬЯНЕ)\lab_i_12\lab_i_12\obj\Debug\lab_i_12.pdb
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe.config
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\bin\Debug\lab_i_12.exe
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\bin\Debug\lab_i_12.pdb
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.Properties.Resources.resources
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.exe
+E:\МАИ\3 семестр\ИСРППС\lab_i_12\lab_i_12\obj\Debug\lab_i_12.pdb
