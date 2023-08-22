@@ -1,0 +1,10 @@
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\bin\Debug\lab3.exe.config
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\bin\Debug\lab3.exe
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\bin\Debug\lab3.pdb
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.exe
+C:\МАИ\3 семестр\ИСРППС\lab3\lab3\obj\Debug\lab3.pdb
