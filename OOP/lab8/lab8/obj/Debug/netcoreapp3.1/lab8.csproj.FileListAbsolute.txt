@@ -1,0 +1,13 @@
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.exe
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.deps.json
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.json
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.dev.json
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.dll
+C:\МАИ\3 семестр\ООП\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.pdb
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfoInputs.cache
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfo.cs
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.dll
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.pdb
+C:\МАИ\3 семестр\ООП\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.genruntimeconfig.cache

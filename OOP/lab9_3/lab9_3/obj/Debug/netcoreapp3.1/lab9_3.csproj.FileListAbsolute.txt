@@ -1,0 +1,13 @@
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.exe
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.deps.json
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.runtimeconfig.json
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.runtimeconfig.dev.json
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.dll
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\bin\Debug\netcoreapp3.1\lab9_3.pdb
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.AssemblyInfoInputs.cache
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.AssemblyInfo.cs
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.dll
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.pdb
+C:\МАИ\3 семестр\ООП\lab9_3\lab9_3\obj\Debug\netcoreapp3.1\lab9_3.genruntimeconfig.cache
