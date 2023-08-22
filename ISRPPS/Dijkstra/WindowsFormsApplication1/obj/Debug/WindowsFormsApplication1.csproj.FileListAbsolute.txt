@@ -1,0 +1,60 @@
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\khang-win\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Khang-win\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Khang-win\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Dijkstra.NET.dll
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\bin\Debug\Dijkstra.NET.dll
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\Dijkstra.NET.dll
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\bin\Debug\Dijkstra.NET.dll
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\МАИ\3 семестр\ИСРППС\Example\DijkstraCSharp!!!!!!!!!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\bin\Debug\Dijkstra.NET.dll
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\Dijkstra\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
