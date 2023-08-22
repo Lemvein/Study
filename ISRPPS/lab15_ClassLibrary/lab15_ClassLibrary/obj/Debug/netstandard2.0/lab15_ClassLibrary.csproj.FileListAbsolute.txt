@@ -1,0 +1,8 @@
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\bin\Debug\netstandard2.0\lab15_ClassLibrary.deps.json
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\bin\Debug\netstandard2.0\lab15_ClassLibrary.dll
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\bin\Debug\netstandard2.0\lab15_ClassLibrary.pdb
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\obj\Debug\netstandard2.0\lab15_ClassLibrary.AssemblyInfoInputs.cache
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\obj\Debug\netstandard2.0\lab15_ClassLibrary.AssemblyInfo.cs
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\obj\Debug\netstandard2.0\lab15_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\obj\Debug\netstandard2.0\lab15_ClassLibrary.dll
+C:\МАИ\3 семестр\ИСРППС\lab15_ClassLibrary\lab15_ClassLibrary\obj\Debug\netstandard2.0\lab15_ClassLibrary.pdb

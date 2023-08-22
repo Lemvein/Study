@@ -1,0 +1,15 @@
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.exe
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.deps.json
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.json
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.dev.json
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.dll
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.pdb
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfoInputs.cache
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfo.cs
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.dll
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.pdb
+E:\МАИ\3 семестр\ИСРППС\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.genruntimeconfig.cache
