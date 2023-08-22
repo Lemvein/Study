@@ -1,0 +1,7 @@
+E:\Арты\MKO.exe
+E:\Арты\MKO.dll
+E:\Арты\MKO.deps.json
+E:\Арты\MKO.runtimeconfig.json
+E:\Арты\MKO.pdb
+E:\Арты\Microsoft.Office.Interop.Excel.dll
+E:\Арты\office.dll

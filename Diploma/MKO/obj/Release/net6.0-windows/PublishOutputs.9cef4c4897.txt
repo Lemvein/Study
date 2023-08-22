@@ -1,0 +1,7 @@
+C:\Users\melis\Desktop\MKO.exe
+C:\Users\melis\Desktop\MKO.dll
+C:\Users\melis\Desktop\MKO.deps.json
+C:\Users\melis\Desktop\MKO.runtimeconfig.json
+C:\Users\melis\Desktop\MKO.pdb
+C:\Users\melis\Desktop\Microsoft.Office.Interop.Excel.dll
+C:\Users\melis\Desktop\office.dll

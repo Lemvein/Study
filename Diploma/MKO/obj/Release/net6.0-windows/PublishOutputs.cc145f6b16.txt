@@ -1,0 +1,7 @@
+F:\Прога\MKO.exe
+F:\Прога\MKO.dll
+F:\Прога\MKO.deps.json
+F:\Прога\MKO.runtimeconfig.json
+F:\Прога\MKO.pdb
+F:\Прога\Microsoft.Office.Interop.Excel.dll
+F:\Прога\office.dll
