@@ -1,0 +1,71 @@
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.csproj.AssemblyReference.cache
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.csproj.GenerateResource.cache
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.GeneratedMSBuildEditorConfig.editorconfig
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfoInputs.cache
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfo.cs
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.csproj.CoreCompileInputs.cache
+E:\МАИ\ВКР\MKO\bin\Debug\net6.0-windows\MKO.exe
+E:\МАИ\ВКР\MKO\bin\Debug\net6.0-windows\MKO.deps.json
+E:\МАИ\ВКР\MKO\bin\Debug\net6.0-windows\MKO.runtimeconfig.json
+E:\МАИ\ВКР\MKO\bin\Debug\net6.0-windows\MKO.dll
+E:\МАИ\ВКР\MKO\bin\Debug\net6.0-windows\MKO.pdb
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.dll
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\refint\MKO.dll
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.pdb
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.genruntimeconfig.cache
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\ref\MKO.dll
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.Lab.resources
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.Test.resources
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.Menu.resources
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.Properties.Resources.resources
+E:\МАИ\ВКР\MKO\obj\Debug\net6.0-windows\MKO.Result.resources
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.exe
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.deps.json
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.runtimeconfig.json
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.dll
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.pdb
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.AssemblyReference.cache
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Lab.resources
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Menu.resources
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Properties.Resources.resources
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Test.resources
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.GenerateResource.cache
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.GeneratedMSBuildEditorConfig.editorconfig
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfoInputs.cache
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfo.cs
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.CoreCompileInputs.cache
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.dll
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\refint\MKO.dll
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.pdb
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.genruntimeconfig.cache
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\ref\MKO.dll
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Calculation.resources
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.ResultsForm.resources
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\office.dll
+E:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.CopyComplete
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.exe
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.deps.json
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.runtimeconfig.json
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.dll
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\MKO.pdb
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+G:\МАИ\ВКР\Версии программы\MKO\bin\Debug\net6.0-windows\office.dll
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.AssemblyReference.cache
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Lab.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Menu.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Properties.Resources.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Test.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.Calculation.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.ResultsForm.resources
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.GenerateResource.cache
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.GeneratedMSBuildEditorConfig.editorconfig
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfoInputs.cache
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.AssemblyInfo.cs
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.CoreCompileInputs.cache
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.csproj.CopyComplete
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.dll
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\refint\MKO.dll
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.pdb
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\MKO.genruntimeconfig.cache
+G:\МАИ\ВКР\Версии программы\MKO\obj\Debug\net6.0-windows\ref\MKO.dll
