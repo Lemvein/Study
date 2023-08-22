@@ -1,6 +1,0 @@
-Если приложение не запускается, требуется установить .NET 6.0 Desktop Runtime.
-Исходники в архиве MKO.zip
-	Контакты автора на случай возникновения вопросов:
-email: melisa1@list.ru
-telegram: @lemvein
-VK: /danilovat
