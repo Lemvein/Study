@@ -1,0 +1,20 @@
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\bin\Debug\ISRPPS_Lab_9.exe.config
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\bin\Debug\ISRPPS_Lab_9.exe
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\bin\Debug\ISRPPS_Lab_9.pdb
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.Form1.resources
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.Properties.Resources.resources
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.exe
+C:\Users\Антон\source\repos\ISRPPS_Lab_9\obj\Debug\ISRPPS_Lab_9.pdb
+E:\МАИ\3 семестр\ИСРППС\lab9\bin\Debug\ISRPPS_Lab_9.exe.config
+E:\МАИ\3 семестр\ИСРППС\lab9\bin\Debug\ISRPPS_Lab_9.exe
+E:\МАИ\3 семестр\ИСРППС\lab9\bin\Debug\ISRPPS_Lab_9.pdb
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.csprojAssemblyReference.cache
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.Form1.resources
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.Properties.Resources.resources
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.csproj.GenerateResource.cache
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.csproj.CoreCompileInputs.cache
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.exe
+E:\МАИ\3 семестр\ИСРППС\lab9\obj\Debug\ISRPPS_Lab_9.pdb
